@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mstafamajid" alt="mstafamajid" /></a> </p>
 
-- 🔭 I’m currently working on [grocmart project](https://github.com/mstafamajid/grosmart)
+- 🔭 I’m currently working on [grocmart project](https://github.com/mstafamajid/grosmart) and [shop App](https://github.com/mstafamajid/shop-app)
 
 - 🌱 I’m currently learning **Firebase and more advanced flutter**
 
