@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [grocmart project](https://github.com/mstafamajid/grosmart) and [shop App](https://github.com/mstafamajid/shop-app)
 
-- 🌱 I’m currently learning **Firebase and more advanced flutter**
+- 🌱 I’m currently learning **bloC state management and more advanced flutter**
 
-- 💬 Ask me about **flutter&dart, java, html&css**
+- 💬 Ask me about **flutter&dart, java,js,sql, html&css**
 
 - 📫 How to reach me **mstafa.00857387@gmail.com**
 
