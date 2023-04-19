@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm mustafa majid</h1>
 <h3 align="center">A flutter developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mstafamajid&label=Profile%20views&color=0e75b6&style=flat" alt="mstafamajid" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mstafamajid" alt="mstafamajid" /></a> </p>
 
 - 🌱 I’m currently learning **bloC state management and more advanced flutter**
 
