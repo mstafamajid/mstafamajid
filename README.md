@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **bloC state management and more advanced flutter**
+
 
 - 💬 Ask me about **flutter&dart, java,js,sql, html&css**
 
