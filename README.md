@@ -5,7 +5,7 @@
 
 
 
-- 💬 Ask me about **flutter&dart, java,problems,sql**
+- 💬 Ask me about **flutter&dart**
 
 - 📫 How to reach me **mstafa.00857387@gmail.com**
 
